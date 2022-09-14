@@ -1,0 +1,1 @@
+int ChuSoLonNhat(int n,int &max);

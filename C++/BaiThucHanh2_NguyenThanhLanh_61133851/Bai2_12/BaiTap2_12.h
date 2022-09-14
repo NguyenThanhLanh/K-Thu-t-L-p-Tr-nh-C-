@@ -1,0 +1,1 @@
+int TongChuSo(int n);

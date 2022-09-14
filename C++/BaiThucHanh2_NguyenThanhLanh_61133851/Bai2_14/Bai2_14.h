@@ -1,0 +1,1 @@
+int UocChungLonNhat(int a, int b);

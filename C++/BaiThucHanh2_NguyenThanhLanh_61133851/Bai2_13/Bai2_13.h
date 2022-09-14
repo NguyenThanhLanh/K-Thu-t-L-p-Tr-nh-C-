@@ -1,0 +1,1 @@
+void SoDaoNguoc(int n);

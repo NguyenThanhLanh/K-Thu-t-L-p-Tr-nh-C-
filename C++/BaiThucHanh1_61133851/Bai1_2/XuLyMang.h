@@ -1,0 +1,12 @@
+void NhapMang(int a[], int n);
+void XuatMang(int a[], int n);
+bool IsSoNguyenTo(int a);
+void TimCacSoNguyenTo(int a[], int n);
+bool IsSoChinhPhuong(int n);
+void TimSoChinhPhuong(int a[], int n);
+float TinhGTTrungBinh(int a[], int n);
+void PhanTuLonHonGTTB(int a[], int n);
+int PhanTuLonNhat(int a[], int n);
+void IsHamDaSXTangDan(int a[], int n);
+void SapXepTangDan(int a[], int n);
+void SapXepGiamDan(int a[], int n);
